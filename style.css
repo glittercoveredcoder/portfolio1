@@ -1,0 +1,36 @@
+body {
+
+}
+
+header {
+  text-align: center; 
+}
+
+nav {
+
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  list-style-type: none;
+  margin-top: 0;
+}
+
+li {
+  padding: 1rem;
+}
+
+li:hover {
+  font-size: 1.2rem;
+}
+
+nav a {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+h1 {
+  margin-bottom: 0;
+}
